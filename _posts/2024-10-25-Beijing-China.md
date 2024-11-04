@@ -17,7 +17,7 @@ After we went on the plane to Beijing in China to see my auntie and uncle and co
 
 ![ISB 1]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/ISB.jpg)
 
-![ISB Sport field]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/SportField.JPG.jpg)
+![ISB Sport field]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/SportField.jpg)
 
 ## Saturday and Sunday 
 
@@ -50,11 +50,11 @@ I went on this glass platform at 'Shilin Mountain' that was very very high up an
 
 I went to a theme park called universal studios. There was a minions part a Jurassic, park part, Harry Potter, part and transformers part after I did one of the Harry Potter rides I had a butter bear. At the transformers part I want on the movie roller coaster it’s basically like you’re watching a movie but you’re also in a car Wednesday I want to Tiananmen Square and the forbidden city only the emperor is allowed everywhere every other person was forbidden from the city I also went to the shops 
 
-![Universal 1]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/Universal%20(1).JPG)
+![Universal 1]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/Universal1.JPG)
 
-![Universal 2]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/Universal%20(2).JPG) 
+![Universal 2]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/Universal2.JPG) 
 
-![Universal 3]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/Universal%20(3).JPG) 
+![Universal 3]({{ site.url }}{{ site.baseurl }}/assets/images/2025/Beijing/Universal3.JPG) 
 
 ## GOING HOME
 
